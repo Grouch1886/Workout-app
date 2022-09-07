@@ -1,0 +1,47 @@
+.stopwatch-display {
+    display: flex;
+    justify-content: center;
+}
+
+.stopwatch-card {
+    display: flex;
+    flex-direction: column;
+    background-color: #432386;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 522px;
+ 
+}
+
+p:first-child {
+    margin-top: 25px;
+}
+
+.timer {
+    font-size: 48px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+button {
+    outline: none;
+    background: #5E2A9A;
+    border: none;
+    padding: 5px 10px;
+    color: whitesmoke;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    font-size: 24px;
+}
+    
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 21rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    margin-bottom: 25px;
+}
