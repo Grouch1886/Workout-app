@@ -1,0 +1,58 @@
+body {
+    background-color: #6E3CBC;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+.main-content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.2rem;
+}
+
+
+
+.main-content-wrapper_item {
+    background-color:#432386;
+    font-weight:400;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: 108px;
+}
+
+.main-content-wrapper_item:hover {
+    background-color:#271450;
+    font-weight:400;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 2.4rem;
+}
+
+.workout-program-grid {
+    margin-top: 7rem;
+    display: grid;
+    justify-content: center;
+}
+
+.margin-left-workout-program {
+    margin-left: 18rem;
+}
