@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Grouch1886/static/css/main.bf74d450.css",
-    "main.js": "/Grouch1886/static/js/main.e194d186.js",
-    "index.html": "/Grouch1886/index.html",
-    "main.bf74d450.css.map": "/Grouch1886/static/css/main.bf74d450.css.map",
-    "main.e194d186.js.map": "/Grouch1886/static/js/main.e194d186.js.map"
+    "main.css": "/Workout-app/static/css/main.bf74d450.css",
+    "main.js": "/Workout-app/static/js/main.e194d186.js",
+    "index.html": "/Workout-app/index.html",
+    "main.bf74d450.css.map": "/Workout-app/static/css/main.bf74d450.css.map",
+    "main.e194d186.js.map": "/Workout-app/static/js/main.e194d186.js.map"
   },
   "entrypoints": [
     "static/css/main.bf74d450.css",
